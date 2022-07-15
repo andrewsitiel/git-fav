@@ -22,5 +22,7 @@ In this project, i'm applying/using:
 ## Preview
 
    ### Desktop
+       
+   ![image](https://user-images.githubusercontent.com/86017907/179317766-7ae28879-abde-4d00-a0ac-715e1c61e59c.png)
 
 [![image](https://user-images.githubusercontent.com/86017907/179060688-590eac0e-1195-4bad-80d3-8c848b0af5e2.png)](https://github.com/AndrewsItiel06/SPA-Universe/blob/main/LICENSE)
