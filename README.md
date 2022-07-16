@@ -14,7 +14,7 @@ In this project, i'm applying/using:
 - localstorage
 - fetch API
 - GitHub API
-
+- try, catch and throw
 
 ## Techs
 
