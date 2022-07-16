@@ -5,7 +5,7 @@ A application for saving GitHub users.
 ### Using
 For use, just enter the GitHub user in the search bar, and it will be added in the table.
 
-### Construction
+### Development
 
 In this project, i'm applying/using:
 
