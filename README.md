@@ -10,6 +10,7 @@ For use, just enter the GitHub user in the search bar, and it will be added in t
 In this project, i'm applying/using:
 
 - Classes
+- Asynchronism with async...wait
 - localstorage
 - fetch API
 - GitHub API
