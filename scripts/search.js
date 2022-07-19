@@ -14,4 +14,17 @@ export class search {
       }
     })
   }  
+  
+  static inputAtEnterButton() {
+    const input = document.querySelector(".input-wrapper input")
+    const inputButton = document.querySelector(".input-wrapper button")
+
+    input.addEventListener("keypress", (pressedKey) => {
+    
+        if(pressedKey.key === "Enter") {
+          pressedKey.preventDefault()
+          inputButton.click()
+        }
+    })
+  }
 }
